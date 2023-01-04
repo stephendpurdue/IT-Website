@@ -11,3 +11,9 @@ background: #777b7e;
     border: 0;
     box-sizing: border-box;
 }
+
+header {
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+}
