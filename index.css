@@ -4,3 +4,10 @@ width: 100vw;
 background: #777b7e;
 
 }
+
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
