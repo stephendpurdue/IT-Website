@@ -42,6 +42,7 @@ body {
 }
 
 button {
+    transition-duration: 0.2s;
     height: 8vh;
     width: 100vw;
     background: var(--ButtonColour);
