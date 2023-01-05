@@ -34,13 +34,17 @@ footer {
 }
 
 main {
-    height: 8vh;
+    height: 100%;
     width: 100vw;
     background: var(--BackgroundColour);
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     background-color: #fff7b2;
+}
+
+body {
+    max-height: 100vh;
 }
 
 button {
