@@ -1,7 +1,17 @@
+:root {
+    --HeaderColour: #777b7e;
+    --FooterColour: #777b7e;
+
+}
+
+
 header {
     height: 8vh;
     width: 100vw;
-    background: #777b7e;
+    background: var(--HeaderColour);
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
 }
 
 * {
@@ -9,10 +19,4 @@ header {
     margin: 0;
     border: 0;
     box-sizing: border-box;
-}
-
-header {
-    display: flex;
-    justify-content: space-evenly;
-    align-content: center;
 }
