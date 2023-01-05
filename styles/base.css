@@ -36,8 +36,9 @@ body {
     max-height: 100vh;
     background-color: var(--BackgroundColour);
     display: flex;
-    justify-content: space-evenly;
     align-items: center;
+    flex-direction: column;
+    justify-content: start;    
 }
 
 button {
