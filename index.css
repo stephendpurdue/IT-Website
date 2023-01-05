@@ -34,7 +34,7 @@ footer {
 }
 
 main {
-    height: 100%;
+    height: calc(100vh - var(--HeaderColour) - var(--FooterColour));
     width: 100vw;
     background: var(--BackgroundColour);
     display: flex;
