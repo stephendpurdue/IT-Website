@@ -53,6 +53,11 @@ button {
     font-family: "Lato", sans-serif;
 }
 
+button:hover {
+    transition-duration: 0.5s;
+    color: purple;
+}
+
 .logo {
     height: 8vh;
     width: 100vw;
