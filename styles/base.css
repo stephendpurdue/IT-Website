@@ -81,3 +81,7 @@ button:hover {
     height: 80%;
     aspect-ratio: 1;
 }
+
+.icon > img {
+    max-height: 100%;
+}
