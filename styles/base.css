@@ -36,6 +36,16 @@ p {
     font-size: 1.1em;
     font-weight: 400;
 }
+
+#page-container {
+    position: relative;
+    min-height: 100vh;
+}
+
+
+#content-wrap { 
+    padding-bottom: 2.5rem;
+}
 footer {
     height: 8vh;
     width: 100vw;
