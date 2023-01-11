@@ -46,7 +46,7 @@ p {
 #content-wrap { 
     padding-bottom: 2.5rem;
 }
-footer {
+#footer {
     height: 8vh;
     width: 100vw;
     background: var(--FooterColour);
