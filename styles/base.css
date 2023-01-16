@@ -93,6 +93,13 @@ button:hover {
     color: purple;
 }
 
+a {
+    font-size: 1.1em;
+    font-family: "Lato",sans-serif;
+    font-style: italic;
+    font-weight: 400;
+}
+
 .logo {
     height: 8vh;
     width: 100vw;
