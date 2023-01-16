@@ -64,6 +64,9 @@ body {
     flex-direction: column;
     justify-content: start;    
     overflow-x: hidden;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 2%;
 }
 
 li {
